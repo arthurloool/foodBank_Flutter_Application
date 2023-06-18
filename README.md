@@ -1,5 +1,5 @@
 # Tech For Good - Food bank
-Team Delta.
+Team Delta - University of Hertfordshire Assignment
 
 ## Group members:
 - Arthur, Chun Hei Leung 21079733
