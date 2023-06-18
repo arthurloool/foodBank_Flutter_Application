@@ -2,8 +2,12 @@
 Team Delta.
 
 ## Group members:
-- Chun Hei Leung 21079733
+- Arthur, Chun Hei Leung 21079733
 - Andrei Roinita 21093453
+
+## API Used
+- Give Food API
+https://www.givefood.org.uk/api/
 
 ## How to start:
 - make sure you have flutter package installed.
