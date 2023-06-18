@@ -2,8 +2,8 @@
 Team Delta - University of Hertfordshire Assignment
 
 ## Group members:
-- Arthur, Chun Hei Leung 21079733
-- Andrei Roinita 21093453
+- Arthur, Chun Hei Leung 21079733 Linkedin: https://www.linkedin.com/in/arthur-leung5499/
+- Andrei Roinita 21093453 Linkedin: https://www.linkedin.com/in/andrei-robert-roinita-a126351a8/
 
 ## API Used
 - Give Food API
